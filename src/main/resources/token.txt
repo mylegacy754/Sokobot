@@ -1,1 +1,1 @@
-replace this with your Discord bot token (https://discord.com/developers/applications)
+66d9bc60e99e3cfe603ea63d2c79712be03a0ba0e2f926171ae295c5c643c35b
